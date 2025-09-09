@@ -26,4 +26,4 @@ I am constantly learning and applying my skills in:
 
 ### 📫 Contact
 
--   **Email:** [your.email@example.com](mailto:your.email@example.com)
+-   **Email:** juvillarreala@unal.edu.co
