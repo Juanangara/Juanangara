@@ -1,17 +1,29 @@
-### [Juan Angarita] | Developer and student at the Universidad Nacional de Colombia
+### Hey! I'm a Computer Science student at UNAL 👋
 
-I'm a developer with a strong interest in **Data Science** and **Machine Learning**. I have experience in **web development** with **React** and build my back-ends using **Firebase**.
+I'm a developer with experience in frontend frameworks like **React** and **Angular**, and I've also built robust applications with pure **JavaScript** (**vanilla**).
+
+I have a strong interest in **data analysis** and **data science**, applying my knowledge of **Python** with libraries such as **Pandas**, **Numpy**, and **Scikit-learn**.
 
 ---
 
-### Tools i have used
+### 💻 Technologies I work with
 
-- **Languages:** **Python**, **JavaScript**, **Java**
-- **Web Dev:** **React**, **Firebase**, **Vanilla** web development
-- **Databases:** **MySQL**
-- 
+-   **Languages:** Python, JavaScript, Java
+-   **Frameworks:** React, Angular
+-   **Web Development:** Vanilla JS (HTML, CSS, JS)
+-   **Databases:** MySQL, Neo4j
+
 ---
 
-### Connect with me
+### 🌱 Projects & Interests
 
-- **Email:** [sebasangarit@gmail.com]
+I am constantly learning and applying my skills in:
+-   Web development projects with **React** and **Angular**.
+-   Data analysis, linear algebra, and cryptography with **Python**.
+-   Handling relational (**MySQL**) and graph (**Neo4j**) databases.
+
+---
+
+### 📫 Contact
+
+-   **Email:** [your.email@example.com](mailto:your.email@example.com)
