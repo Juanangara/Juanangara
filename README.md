@@ -9,7 +9,7 @@ I have a strong interest in **data analysis** and **data science**, applying my 
 ### 💻 Technologies I work with
 
 -   **Languages:** Python, JavaScript, Java
--   **Frameworks:** React, Angular
+-   **Frameworks:** React, Angular, SpringBoot
 -   **Web Development:** Vanilla JS (HTML, CSS, JS)
 -   **Databases:** MySQL, Neo4j
 
