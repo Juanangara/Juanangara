@@ -9,7 +9,7 @@ I have a strong interest in **data analysis** and **data science**, applying my 
 ### 💻 Technologies I work with
 
 -   **Languages:** Python, JavaScript, Java
--   **Frameworks:** React, Angular, SpringBoot
+-   **Frameworks:** React, SpringBoot, Django
 -   **Web Development:** Vanilla JS (HTML, CSS, JS)
 -   **Databases:** MySQL, Neo4j
 
@@ -18,7 +18,7 @@ I have a strong interest in **data analysis** and **data science**, applying my 
 ### 🌱 Projects & Interests
 
 I am constantly learning and applying my skills in:
--   Web development projects with **React** and **Angular**.
+-   Web development projects with **React**.
 -   Data analysis, linear algebra, and cryptography with **Python**.
 -   Handling relational (**MySQL**) and graph (**Neo4j**) databases.
 
