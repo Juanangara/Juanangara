@@ -1,29 +1,35 @@
-### Hey! I'm a Computer Science student at UNAL 👋
+### Hey! I'm a Computer Scientist at UNAL
 
-I'm a developer with experience in frontend frameworks like **React** and **Angular**, and I've also built robust applications with pure **JavaScript** (**vanilla**).
+I'm a developer with experience building production systems in
+**TypeScript**, from large-scale data integration engines to REST
+APIs, and full products end-to-end including a self-built SaaS with
+real payment processing.
 
-I have a strong interest in **data analysis** and **data science**, applying my knowledge of **Python** with libraries such as **Pandas**, **Numpy**, and **Scikit-learn**.
-
----
-
-### 💻 Technologies I work with
-
--   **Languages:** Python, JavaScript, Java
--   **Frameworks:** React, SpringBoot, Django
--   **Web Development:** Vanilla JS (HTML, CSS, JS)
--   **Databases:** MySQL, Neo4j
+I also have a background in **data analysis** and **data science**,
+applying **Python** with libraries such as **Pandas**, **Numpy**, and
+**Scikit-learn**.
 
 ---
 
-### 🌱 Projects & Interests
+### Technologies I work with
+
+-   **Languages:** TypeScript, JavaScript, Python, Java
+-   **Backend:** Express.js, Django, REST APIs, distributed job queues
+-   **Frontend:** React
+-   **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+
+---
+
+### Projects & Interests
 
 I am constantly learning and applying my skills in:
--   Web development projects with **React**.
--   Data analysis, linear algebra, and cryptography with **Python**.
--   Handling relational (**MySQL**) and graph (**Neo4j**) databases.
+-   Large-scale data integration and regulatory compliance systems.
+-   Building SaaS products end-to-end, including payments (**colint.app**).
+-   Data analysis, distributed systems, and cryptographic data integrity (Merkle trees).
 
 ---
 
-### 📫 Contact
+### Contact
 
--   **Email:** juvillarreala@unal.edu.co
+-   **Email:** sebasangarit@gmail.com
+-   **LinkedIn:** [juan-villarreal-angarita](https://www.linkedin.com/in/juan-villarreal-angarita-10498b232/)
