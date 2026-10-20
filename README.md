@@ -1,35 +1,28 @@
-### Hey! I'm a Computer Scientist at UNAL
+### Hey! I'm Juan Sebastian
 
-I'm a developer with experience building production systems in
-**TypeScript**, from large-scale data integration engines to REST
-APIs, and full products end-to-end including a self-built SaaS with
-real payment processing.
+I'm a Computer Science student at Universidad Nacional de Colombia (full curriculum completed, graduating in November 2026). I like building software that works for real: clear to understand, easy to change and reliable when many people use it.
 
-I also have a background in **data analysis** and **data science**,
-applying **Python** with libraries such as **Pandas**, **Numpy**, and
-**Scikit-learn**.
+In my graduation internship I built a platform that gathers restricted lists of people and companies from 245 public sources in different countries. It runs every day on Azure, handles more than 7 million records and replaced an external provider.
+
+---
+
+### Projects
+
+-   **[tokenscope](https://github.com/Juanangara/tokenscope)**: a low-latency LLM inference service with overload protection, observability and prompt drift detection. It runs on a laptop CPU with one `docker compose` command.
+-   **[geotrack](https://github.com/Juanangara/geotrack)**: live location tracking with PostGIS: geospatial events, proximity queries and a live map.
 
 ---
 
 ### Technologies I work with
 
--   **Languages:** TypeScript, JavaScript, Python, Java
--   **Backend:** Express.js, Django, REST APIs, distributed job queues
--   **Frontend:** React
--   **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-
----
-
-### Projects & Interests
-
-I am constantly learning and applying my skills in:
--   Large-scale data integration and regulatory compliance systems.
--   Building SaaS products end-to-end, including payments (**colint.app**).
--   Data analysis, distributed systems, and cryptographic data integrity (Merkle trees).
+-   **Languages:** TypeScript, Python, JavaScript, SQL
+-   **Backend:** FastAPI, Django, REST APIs
+-   **Databases:** PostgreSQL (PostGIS), MySQL
+-   **Infrastructure:** Docker, Azure, GitHub Actions, Prometheus, Grafana
 
 ---
 
 ### Contact
 
 -   **Email:** sebasangarit@gmail.com
--   **LinkedIn:** [juan-villarreal-angarita](https://www.linkedin.com/in/juan-villarreal-angarita-10498b232/)
+-   **LinkedIn:** [juan-sebastian-villarreal-angarita](https://www.linkedin.com/in/juan-sebastian-villarreal-angarita-10498b232/)
