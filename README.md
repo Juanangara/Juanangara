@@ -8,6 +8,8 @@ In my graduation internship I built a platform that gathers restricted lists of 
 
 ### Projects
 
+- **[rama-queue](https://github.com/Juanangara/rama-queue)**: large-scale search over Colombia's court-case API with RabbitMQ, PostgreSQL and Redis, with a live dashboard.
+- **[norma-rag](https://github.com/Juanangara/norma-rag)**: a local RAG over Colombian data-protection law, with hallucination measurement for a small model.
 -   **[tokenscope](https://github.com/Juanangara/tokenscope)**: a low-latency LLM inference service with overload protection, observability and prompt drift detection. It runs on a laptop CPU with one `docker compose` command.
 -   **[geotrack](https://github.com/Juanangara/geotrack)**: live location tracking with PostGIS: geospatial events, proximity queries and a live map.
 -   **[kaggle-competitions](https://github.com/Juanangara/kaggle-competitions)**: Kaggle solutions built around honest validation. On LLM Classification Finetuning I compared hand-made features, sentence embeddings with LightGBM (1.00436 public log loss) and a LoRA fine-tune of Qwen2.5-1.5B, and wrote down what did and did not help.
