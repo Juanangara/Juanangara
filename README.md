@@ -8,6 +8,7 @@ In my graduation internship I built a platform that gathers restricted lists of 
 
 ### Projects
 
+- **[newsroom-agents](https://github.com/Juanangara/newsroom-agents)**: a team of agents (researcher, summarizer, fact-verifier, editor) that writes news reports where every claim carries a verbatim quote from its source. Runs open models on a free GPU; evaluated against hand-labelled data, with a development log of what worked and what did not (including a judge model that did not help).
 - **[rama-queue](https://github.com/Juanangara/rama-queue)**: large-scale search over Colombia's court-case API with RabbitMQ, PostgreSQL and Redis, with a live dashboard.
 - **[norma-rag](https://github.com/Juanangara/norma-rag)**: a local RAG over Colombian data-protection law, with hallucination measurement for a small model.
 -   **[tokenscope](https://github.com/Juanangara/tokenscope)**: a low-latency LLM inference service with overload protection, observability and prompt drift detection. It runs on a laptop CPU with one `docker compose` command.
@@ -19,7 +20,7 @@ In my graduation internship I built a platform that gathers restricted lists of 
 ### Technologies I work with
 
 -   **Languages:** TypeScript, Python, JavaScript, SQL
--   **Data and ML:** scikit-learn, LightGBM, PyTorch, Hugging Face (LoRA fine-tuning), pandas
+-   **Data and ML:** scikit-learn, LightGBM, PyTorch, Hugging Face (LoRA fine-tuning, 4-bit inference), pandas
 -   **Backend:** FastAPI, Django, REST APIs
 -   **Databases:** PostgreSQL (PostGIS), MySQL
 -   **Infrastructure:** Docker, Azure, GitHub Actions, Prometheus, Grafana
