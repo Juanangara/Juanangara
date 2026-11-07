@@ -20,10 +20,10 @@ In my graduation internship I built a platform that gathers restricted lists of 
 ### Technologies I work with
 
 -   **Languages:** TypeScript, Python, JavaScript, SQL
--   **Data and ML:** scikit-learn, LightGBM, PyTorch, Hugging Face (LoRA fine-tuning, 4-bit inference), pandas
+-   **Data and ML:** scikit-learn, LightGBM, PyTorch, Hugging Face (LoRA fine-tuning, 4-bit inference), sentence-transformers, llama.cpp, pandas, Pydantic
 -   **Backend:** FastAPI, Django, REST APIs
--   **Databases:** PostgreSQL (PostGIS), MySQL
--   **Infrastructure:** Docker, Azure, GitHub Actions, Prometheus, Grafana
+-   **Databases and messaging:** PostgreSQL (PostGIS, pgvector), MySQL, Redis, RabbitMQ
+-   **Infrastructure and testing:** Docker, Azure, GitHub Actions, Prometheus, Grafana, pytest
 
 ---
 
