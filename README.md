@@ -1,6 +1,6 @@
 ### Hey! I'm Juan Sebastian
 
-I'm a Computer Science student at Universidad Nacional de Colombia (full curriculum completed, graduating in November 2026). I like building software that works for real: clear to understand, easy to change and reliable when many people use it.
+I'm a Computer Scientist, a 2026 graduate of Universidad Nacional de Colombia. I like building software that works for real: clear to understand, easy to change and reliable when many people use it.
 
 In my graduation internship I built a platform that gathers restricted lists of people and companies from 245 public sources in different countries. It runs every day on Azure, handles more than 7 million records and replaced an external provider.
 
