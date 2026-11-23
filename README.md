@@ -8,6 +8,7 @@ In my graduation internship I built a platform that gathers restricted lists of 
 
 ### Projects
 
+- **[xm-demand-forecast](https://github.com/Juanangara/xm-demand-forecast)**: day-ahead hourly forecast of Colombia's electricity demand, built on 26 years of data from the grid operator (XM). It is validated walk-forward with no information leakage (1.64 % error against 3.37 % for "same hour last week" and 2.25 % for a classical MSTL model, with significance tests), has prediction intervals whose calibration I measured (my first method turned out overconfident), a FastAPI service in Docker, drift monitors tested by injecting failures, and CI. A development log records what did not work.
 - **[newsroom-agents](https://github.com/Juanangara/newsroom-agents)**: a team of agents (researcher, summarizer, fact-verifier, editor) that writes news reports where every claim carries a verbatim quote from its source. Runs open models on a free GPU; evaluated against hand-labelled data, with a development log of what worked and what did not (including a judge model that did not help).
 - **[rama-queue](https://github.com/Juanangara/rama-queue)**: large-scale search over Colombia's court-case API with RabbitMQ, PostgreSQL and Redis, with a live dashboard.
 - **[norma-rag](https://github.com/Juanangara/norma-rag)**: a local RAG over Colombian data-protection law, with hallucination measurement for a small model.
@@ -23,7 +24,7 @@ In my graduation internship I built a platform that gathers restricted lists of 
 ### Technologies I work with
 
 -   **Languages:** TypeScript, Python, JavaScript, SQL
--   **Data and ML:** scikit-learn, LightGBM, PyTorch, Hugging Face (LoRA fine-tuning, 4-bit inference), sentence-transformers, llama.cpp, pandas, Pydantic
+-   **Data and ML:** scikit-learn, LightGBM, PyTorch, Hugging Face (LoRA fine-tuning, 4-bit inference), sentence-transformers, llama.cpp, pandas, Pydantic, MLflow, statsforecast
 -   **Backend:** FastAPI, Django, REST APIs
 -   **Databases and messaging:** PostgreSQL (PostGIS, pgvector), MySQL, Redis, RabbitMQ
 -   **Infrastructure and testing:** Docker, Azure, GitHub Actions, Prometheus, Grafana, pytest
